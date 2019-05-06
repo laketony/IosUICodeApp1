@@ -74,6 +74,8 @@
 		7F28DEBB227FD15A00B85DB8 /* LTabBarItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTabBarItem.h; sourceTree = "<group>"; };
 		7F28DEBC227FD15A00B85DB8 /* LTabBarItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTabBarItem.m; sourceTree = "<group>"; };
 		7F28DEBE227FDA7A00B85DB8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7F7413D1227FDB6900118D13 /* i-ui-xym190406-27-8-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "i-ui-xym190406-27-8-1.jpg"; sourceTree = "<group>"; };
+		7F7413D2227FDB7E00118D13 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		7F28DE65227EE63100B85DB8 = {
 			isa = PBXGroup;
 			children = (
+				7F7413D0227FDB3600118D13 /* gitres */,
 				7F28DEBE227FDA7A00B85DB8 /* README.md */,
 				7F28DE70227EE63100B85DB8 /* PicStory */,
 				7F28DE89227EE63200B85DB8 /* PicStoryTests */,
@@ -192,6 +195,15 @@
 				7F28DEB7227FC3DB00B85DB8 /* VC_TabBat_Cunse.m */,
 			);
 			path = view2;
+			sourceTree = "<group>";
+		};
+		7F7413D0227FDB3600118D13 /* gitres */ = {
+			isa = PBXGroup;
+			children = (
+				7F7413D1227FDB6900118D13 /* i-ui-xym190406-27-8-1.jpg */,
+				7F7413D2227FDB7E00118D13 /* README.md */,
+			);
+			path = gitres;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
