@@ -6,3 +6,15 @@
 https://uiiiuiii.com/inspiration/1616139561.html
 
 ![image](https://github.com/laketony/IosUICodeApp1/raw/master/gitres/i-ui-xym190406-27-8-1.jpg)
+
+## 程序还原后
+
+讲真，还原度太垃圾了了，不过我也不想真的1：1还原了。
+再做一套标注尺太麻烦了。所以很多距离都只是目测
+iphone xr 截图
+![image](https://github.com/laketony/IosUICodeApp1/raw/master/gitres/i-ui-xym190406-27-8-2.jpg)
+
+
+iphone 7截图
+
+![image](https://github.com/laketony/IosUICodeApp1/raw/master/gitres/i-ui-xym190406-27-8-3.jpg)
