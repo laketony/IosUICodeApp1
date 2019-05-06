@@ -20,3 +20,8 @@ iphone 7截图<br/>
 <br/>  
 
 ![image](https://github.com/laketony/IosUICodeApp1/raw/master/gitres/i-ui-xym190406-27-8-3.jpg)
+
+自定义的一套tabbar 结合了 storybord的设计属性，  
+尽量的实现了所见即所得的方案。  
+在程序的实现过程中，尽可能的以xib完成view层，让view层直观
+通过CODE代码来写视图，虽然很完整，但是视图一旦过大之后，对阅读不利
