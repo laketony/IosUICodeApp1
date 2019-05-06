@@ -5,4 +5,4 @@
 ## 目标设计稿
 https://uiiiuiii.com/inspiration/1616139561.html
 
-![image](https://github.com/laketony/master/i-ui-xym190406-27-8-1.jpg?raw=true)
+![image](https://github.com/laketony/IosUICodeApp1/raw/master/gitres/i-ui-xym190406-27-8-1.jpg)
